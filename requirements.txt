@@ -1,0 +1,8 @@
+ultralytics>=8.4.0
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+pyyaml
