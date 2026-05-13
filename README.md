@@ -201,7 +201,7 @@ windshield-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/windshield-detection.git
+git clone https://github.com/farahGaida/windshield-detection.git
 cd windshield-detection
 ```
 
